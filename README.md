@@ -23,6 +23,9 @@
   <a href="https://facebook.com/abastosjr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://www.linkedin.com/in/abastosjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
    <a href = "mailto:juniorbastos.pb@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  
+  ![Snake animation](https://github.com/abastosjr/abastosjr/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
     
 
